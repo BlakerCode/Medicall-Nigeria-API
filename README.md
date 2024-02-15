@@ -3,34 +3,11 @@
  
 <p/>
 
-<h4 align="center">Best practices to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)</h4>
-
-<p align="center">
-<a href="https://github.com/rexyOnery/Medicall Nigeria/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rexyOnery/Medicall Nigeria?style=flat-square" alt="tryshape licence" />
-</a>
-<a href="https://github.com/rexyOnery/Medicall Nigeria/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rexyOnery/Medicall Nigeria?style=flat-square" alt="tryshape forks"/>
-</a>
-<a href="https://github.com/rexyOnery/Medicall Nigeria/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rexyOnery/Medicall Nigeria?style=flat-square" alt="tryshape stars"/>
-</a>
-<a href="https://github.com/rexyOnery/Medicall Nigeria/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rexyOnery/Medicall Nigeria?style=flat-square" alt="tryshape issues"/>
-</a>
-<a href="https://github.com/rexyOnery/Medicall Nigeria/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rexyOnery/Medicall Nigeria?style=flat-square" alt="tryshape pull-requests"/>
-</a>
-<a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20repo%20https://github.com/rexyOnery/Medicall Nigeria,%20created%20by%20@tapasadhikary%20and%20friends%0A%0A%23DEVCommunity%20%23100DaysOfCode"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2Fatapas%2FMedicall Nigeria"></a>
-
-<p align="center">
-    <a href="https://github.com/TryShape/tryshape/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/TryShape/tryshape/issues/new/choose">Request Feature</a>
-</p>
+<h4 align="center">Your health is now in your hands</h4>
+ 
 
 # 👋 Introducing `Medicall Nigeria`
-`Medicall Nigeria` is a public repository contains the best practices about creating and maintainining repositories to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)
+`Medicall Nigeria` is a public contributory repository for the purpose of building a health mobile app app;ication that will cater for the medical reach of individuals in Nigerians from their comfort zone. This was curated in order to cut the time wasted trying to access medical advice/help thereby reducing time spent on the road, and also, reducing the wait in population of patients in the hospital 
 
 # 🚀 Demo
 Here is a quick demo of the app. We hope you enjoy it.
